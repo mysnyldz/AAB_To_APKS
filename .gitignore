@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environment (created by start/build scripts)
+.venv/
+venv/
+env/
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+warn-*.txt
+Bundle Tool Suite.exe
+BundleToolSuite
+Bundle Tool Suite.app
+*.app
+*.dmg
+
+# Local secrets — never commit
+*.keystore
+*.jks
+*.p12
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian / Cursor
+.obsidian/
+*.canvas
+
+# Internal/Development
+skill/
+
+# Bundletool JAR (large binary)
+tools/*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

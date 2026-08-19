@@ -1,0 +1,1 @@
+bundletool build-apks --bundle=/path/to/your/app.aab --output=/path/to/output/app.apks --ks=/path/to/your/keystore.keystore --ks-pass=pass:YOUR_KEYSTORE_PASSWORD --ks-key-alias=YOUR_KEY_ALIAS --key-pass=pass:YOUR_KEY_PASSWORD

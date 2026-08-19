@@ -1,0 +1,1 @@
+apksigner sign --ks /path/to/your/keystore.keystore --ks-key-alias "YOUR_KEY_ALIAS" --ks-pass pass:YOUR_KEYSTORE_PASSWORD --key-pass pass:YOUR_KEY_PASSWORD --out /path/to/output/singer.apk /path/to/source/com.xiaomi.getapps.signature.verification.apk
