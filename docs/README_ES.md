@@ -1,7 +1,7 @@
 # Bundle Tool Suite
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
 Una aplicación GUI multiplataforma para convertir archivos AAB (Android App Bundle) al formato APKs usando bundletool, y firmar APKs para distribución en plataformas como Xiaomi GetApps.
@@ -214,7 +214,7 @@ AAB-To-APKs/
 
 ## Licencia
 
-Este proyecto fue desarrollado con fines educativos.
+Este proyecto está licenciado bajo la [Licencia MIT](../LICENSE).
 
 ## Contribuir
 

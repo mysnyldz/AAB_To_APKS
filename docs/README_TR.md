@@ -1,7 +1,7 @@
 # Bundle Tool Suite
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
 AAB (Android App Bundle) dosyalarını bundletool kullanarak APKs formatına dönüştüren ve Xiaomi GetApps gibi platformlarda dağıtım için APK imzalayan çapraz platformlu bir GUI uygulaması.
@@ -242,7 +242,7 @@ apksigner sign \
 
 ## Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
+Bu proje [MIT Lisansı](../LICENSE) altında lisanslanmıştır.
 
 ## Katkıda Bulunma
 
